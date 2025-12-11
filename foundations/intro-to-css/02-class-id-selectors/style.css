@@ -1,1 +1,9 @@
-/* Add CSS Styling */
+.adjust {
+    background-color: lightcoral;
+}
+#two {
+    background-color: aqua;
+}
+#four {
+    background-color: beige;
+}
