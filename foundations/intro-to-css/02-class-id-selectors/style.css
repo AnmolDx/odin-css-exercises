@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.bg{
+background-color: rgb(255,204,229);
+font-family: Verdana,"DejaVu Sans", sans-serif;
+}
+
+#unique{
+  color:blue;
+  font-size:36px;
+}
+
+#four{
+  background-color: rgb(144, 238, 144);
+  font-weight: bold;
+}
+
+.font-smaller{
+  font-size: 24px;
+}
