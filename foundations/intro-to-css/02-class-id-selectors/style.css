@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.same-style{
+   background-color: rgba(255, 0, 0, 0.426);
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.same-style.cooler{
+   background-color: rgba(255, 0, 0, 0.426);
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 24px;
+}
+#fstId{
+   font-size: 36px;
+   color: blue;
+}
+#scndId{
+   background-color: rgba(5, 255, 5, 0.47);
+   font-size: 24px;
+   font-weight:bold;
+}
